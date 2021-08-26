@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CD Account Test", "CD Account Test\CD Account Test.csproj", "{C6B5E887-21D6-494A-9530-3CC232B3D597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6B5E887-21D6-494A-9530-3CC232B3D597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B5E887-21D6-494A-9530-3CC232B3D597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B5E887-21D6-494A-9530-3CC232B3D597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B5E887-21D6-494A-9530-3CC232B3D597}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4024344-29F8-4F9B-A1B4-66B73D8482BF}
+	EndGlobalSection
+EndGlobal
